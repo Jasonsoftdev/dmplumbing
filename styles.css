@@ -116,8 +116,8 @@ a {
 }
 
 .site-logo {
-    height: 70px;
-    max-height: 80px;
+    height: 80px;
+    max-height: 100px;
     width: auto;
     object-fit: contain;
 }
